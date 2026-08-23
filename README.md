@@ -1,18 +1,24 @@
-# rashik24.github.io
+# Hi, I'm Rashik
 
-# Hi, I'm Rashik 👋
+PhD candidate in Industrial and Systems Engineering with research focused on AI, machine learning, optimization, and decision support for humanitarian and healthcare systems.
 
-🎓 PhD in Industrial Engineering  
-📊 Focus: AI and ML for Optimization, Humanitarian Systems  
+## Research Interests
+- Humanitarian logistics and food bank operations
+- Stochastic and robust optimization
+- Machine learning for operational decision-making
+- Human-AI decision support
+- Geospatial analytics and resource allocation
 
-## 🚀 What I'm working on
-- Food bank optimization models
-- ML for collaboration prediction
+## Selected Work
+- Food bank purchasing and distribution optimization
+- Predicting inter-agency collaboration and resource sharing
+- Geographic accessibility and food assistance coverage
+- Resource allocation under uncertain supply and demand
 
-## 🛠️ Tech Stack
-Python | Gurobi | R | Tableau
+## Tools
+Python | Gurobi | R | Tableau | SQL | LaTeX
 
-## 📫 Connect with me
-LinkedIn | Email
+## Connect
+[LinkedIn](https://www.linkedin.com/in/rashiksiddiquee/) | [Email](mailto:rsiddiq2@ncsu.edu) | [Google Scholar](https://scholar.google.com/citations?user=8Aj4uu4AAAAJ&hl=en&authuser=2) | [Website](rsiddiquee.com)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashik24&show_icons=true)
