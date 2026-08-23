@@ -324,3 +324,85 @@ footer {
     grid-template-columns: 1fr;
   }
 }
+/* RESEARCH DETAIL PAGE */
+
+.research-page {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 70px 25px;
+}
+
+.research-page h1 {
+  font-size: 2.6rem;
+  line-height: 1.2;
+  margin-bottom: 20px;
+}
+
+.research-page h2 {
+  margin-top: 45px;
+  margin-bottom: 15px;
+  font-size: 1.6rem;
+  border-bottom: 1px solid #e5e7eb;
+  padding-bottom: 8px;
+}
+
+.research-page p {
+  color: #444;
+  font-size: 1.03rem;
+}
+
+.research-page ul {
+  padding-left: 22px;
+}
+
+.research-page li {
+  margin-bottom: 8px;
+}
+
+.lead {
+  font-size: 1.2rem !important;
+  color: #555 !important;
+  max-width: 800px;
+  margin-bottom: 35px;
+}
+
+.section-label {
+  text-transform: uppercase;
+  letter-spacing: 1.4px;
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: #777;
+  margin-bottom: 8px;
+}
+
+.research-page a {
+  color: #0056b3;
+  text-decoration: none;
+}
+
+.research-page a:hover {
+  text-decoration: underline;
+}
+
+
+/* MOBILE */
+
+@media (max-width: 700px) {
+
+  .research-page {
+    padding: 45px 20px;
+  }
+
+  .research-page h1 {
+    font-size: 2rem;
+  }
+
+  .research-page h2 {
+    font-size: 1.35rem;
+  }
+
+  .lead {
+    font-size: 1.05rem !important;
+  }
+
+}
