@@ -424,9 +424,6 @@ footer {
   box-shadow: 0 4px 18px rgba(0, 0, 0, 0.08);
 }
 
-.research-figure.large img {
-  max-width: 900px;
-}
 
 .research-figure figcaption {
   max-width: 760px;
